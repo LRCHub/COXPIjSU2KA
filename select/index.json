@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Speedy Speed Boy (Extended mix)",
+  "base_artist": "Marko Polo、Bratt Sinclaire",
+  "createdAt": "2026-03-20T11:39:19.277958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Speedy Speed Boy (Extended mix)",
+      "artist": "Marko Polo",
+      "has_synced": true,
+      "path": "select/01_Speedy_Speed_Boy_(Extended_mix)_Marko_Polo.lrc"
+    }
+  ]
+}
